@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Bryan West
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Social Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Cornell University
+  url: "https://psychology.cornell.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I study moral psychology with an emphasis on its intersection with political ideology and religious belief.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Moral Judgment
+- Political Ideology
+- Religious Belief
+- Social Inequality
+- Person Perception
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Social Psychology
+    institution: Cornell University
+    year: 2023 (expected)
+  - course: MA in Social Psychology
+    institution: Cornell University
+    year: 2020
+  - course: Post-baccalaureate Certificate in Psychology & Social Behavior
+    institution: UC Irvine
+    year: 2016
+  - course: BA in Music (cello performance & music composition)
+    institution: UCLA
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +50,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: twitter
+  # icon_pack: fab
+  # link: https://twitter.com/sbwest
+# - icon: google-scholar
+  # icon_pack: ai
+  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sbw78
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,18 +66,29 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: "sbw78@cornell.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in social psychology working with David Pizarro, Tom Gilovich, 
+and Melissa Ferguson. I am interested in moral psychology and study how moral 
+judgment, political ideology, and religious belief interact with and influence 
+one another, and the ways in which those relationships impact intergroup behavior, 
+social change, and how we perceive others.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to starting my graduate work at Cornell, I completed a post-baccalaureate 
+certificate in Psychology & Social Behavior at UC Irvine, where I worked with 
+Jacqueline Chen, Paul Piff, Pete Ditto, and Azim Shariff.
+
+Before studying psychology, I worked as a professional cellist and composer in 
+New York City. I trained as a classical and baroque cellist at UCLA, where I 
+studied cello with Antonio Lysy and composition Mark Carlson. I have performed 
+across the United States and Europe with a variety of bands and ensembles.
