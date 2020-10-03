@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "1950s"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -96,17 +96,18 @@ phone = ""
 address = {street = "211 Uris Hall", city = "Ithaca", region = "NY", postcode = "14853", country = "United States", country_code = "US"}
 
 # Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+# To get your coordinates, right-click on Google Maps and choose "What's here?".
+# The coords will show up at the bottom.
+# coordinates = {latitude = "42.447306", longitude = "-76.482199"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Fall 2020 Office Hours for PSYCH 2750",
-"Monday 02:00 PM to 03:00 PM",
-"Tuesday 02:45 PM to 03:45 PM"]
+# office_hours = ["Fall 2020 Office Hours for PSYCH 2750",
+# "Monday 02:00 PM to 03:00 PM",
+# "Tuesday 02:45 PM to 03:45 PM"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -115,7 +116,9 @@ office_hours = ["Fall 2020 Office Hours for PSYCH 2750",
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/sbwest"},
-  {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/sbw78"}
+  {icon = "orcid", icon_pack = "fab", name = "ORCID", link = "https://orcid.org/0000-0003-3327-0499"},
+  {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/sbw78"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/bryan-west/"}
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -126,7 +129,8 @@ contact_links = [
 ## Social
 ############################
 
-# Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
+# Default image for social sharing and search engines. Place image in
+# `static/media/` folder and specify image name here.
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
@@ -169,7 +173,8 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 # Link authors to their profile page? (true/false)
 link_authors = true
 
-# Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
+# Abstract length (characters) in the Compact and Portfolio Card list views.
+# Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
 
 # Load JS plugins
@@ -178,7 +183,8 @@ plugins_js  = []
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.
-# An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
+# An avatar can be uploaded as an image named `avatar` to each user's profile or
+# fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
   gravatar = false
@@ -267,7 +273,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 2
   api_key = ""
-  zoom = 15
+  zoom = 13
 
 ############################
 ## Marketing

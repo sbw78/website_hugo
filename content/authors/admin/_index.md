@@ -25,6 +25,7 @@ interests:
 - Political Ideology
 - Religious Belief
 - Social Inequality
+- Social Change
 - Person Perception
 
 education:
@@ -56,9 +57,15 @@ social:
 # - icon: google-scholar
   # icon_pack: ai
   # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-3327-0499
 - icon: github
   icon_pack: fab
   link: https://github.com/sbw78
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/bryan-west/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -78,17 +85,12 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a PhD student in social psychology working with David Pizarro, Tom Gilovich, 
-and Melissa Ferguson. I am interested in moral psychology and study how moral 
-judgment, political ideology, and religious belief interact with and influence 
-one another, and the ways in which those relationships impact intergroup behavior, 
-social change, and how we perceive others.
+I am a fourth-year PhD student in social psychology working with David Pizarro,
+Tom Gilovich, and Melissa Ferguson. I am interested in moral psychology and
+study how moral judgment, political ideology, and religious belief interact with
+and influence one another, and the ways in which those relationships impact
+intergroup behavior, social change, and how we perceive others.
 
 Prior to starting my graduate work at Cornell, I completed a post-baccalaureate 
 certificate in Psychology & Social Behavior at UC Irvine, where I worked with 
 Jacqueline Chen, Paul Piff, Pete Ditto, and Azim Shariff.
-
-Before studying psychology, I worked as a professional cellist and composer in 
-New York City. I trained as a classical and baroque cellist at UCLA, where I 
-studied cello with Antonio Lysy and composition Mark Carlson. I have performed 
-across the United States and Europe with a variety of bands and ensembles.

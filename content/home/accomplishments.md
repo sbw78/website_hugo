@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -18,14 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = ""
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = ""
+# [[item]]
+#   organization = ""
+#   organization_url = ""
+#   title = ""
+#   url = ""
+#   certificate_url = ""
+#   date_start = ""
+#   date_end = ""
+#   description = ""
+  
 
 +++
