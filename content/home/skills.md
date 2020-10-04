@@ -18,13 +18,13 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Advanced User"
+#  description = "Advanced User"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Visualization"
-  description = "I :heart: ggplot2"
+#  description = "I :heart: ggplot2"
   
 [[feature]]
   icon = "python"
@@ -35,7 +35,7 @@ subtitle = ""
 [[feature]]
   icon = "markdown"
   icon_pack = "fab"
-  name = "Markdown / R Markdown"
+  name = "Markdown | R Markdown"
   description = ""
   
 [[feature]]
@@ -51,7 +51,7 @@ subtitle = ""
 [[feature]]
   icon = "zotero"
   icon_pack = "ai"
-  name = "Zotero / BibTeX"
+  name = "Zotero | BibTeX"
   description = "Reference & Citation Manager"
   
 
