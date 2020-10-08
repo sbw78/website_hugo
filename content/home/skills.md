@@ -52,7 +52,7 @@ subtitle = ""
   icon = "zotero"
   icon_pack = "ai"
   name = "Zotero | BibTeX"
-  description = "Reference & Citation Manager"
+#  description = "Reference & Citation Manager"
   
 
 # Uncomment to use emoji icons.

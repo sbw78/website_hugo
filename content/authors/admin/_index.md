@@ -86,10 +86,10 @@ highlight_name: false
 ---
 
 I am a fourth-year PhD student in social psychology working with David Pizarro,
-Tom Gilovich, and Melissa Ferguson. I am interested in moral psychology and
-study how moral judgment, political ideology, and religious belief interact with
-and influence one another, and the ways in which those relationships impact
-intergroup behavior, social change, and how we perceive others.
+Tom Gilovich, and Melissa Ferguson. My research interests focus on how moral 
+judgment, political ideology, and religious belief interact with and influence 
+one another, and the ways in which those relationships impact intergroup 
+behavior, social change, and how we perceive others.
 
 Prior to starting my graduate work at Cornell, I completed a post-baccalaureate 
 certificate in Psychology & Social Behavior at UC Irvine, where I worked with 
