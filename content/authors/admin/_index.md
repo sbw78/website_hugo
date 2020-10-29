@@ -85,12 +85,12 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a fourth-year PhD student in social psychology working with David Pizarro,
-Tom Gilovich, and Melissa Ferguson. My research interests focus on how moral 
+I am a fourth-year PhD student in social psychology working with [David Pizarro](http://www.peezer.net/),
+[Tom Gilovich](http://blogs.cornell.edu/tgilovich/), and [Melissa Ferguson](http://melissaferguson.squarespace.com/). My research interests focus on how moral 
 judgment, political ideology, and religious belief interact with and influence 
 one another, and the ways in which those relationships impact intergroup 
 behavior, social change, and how we perceive others.
 
-Prior to starting my graduate work at Cornell, I completed a post-baccalaureate 
-certificate in Psychology & Social Behavior at UC Irvine, where I worked with 
-Jacqueline Chen, Paul Piff, Pete Ditto, and Azim Shariff.
+Prior to starting my graduate work at [Cornell](https://psychology.cornell.edu/), I completed a post-baccalaureate 
+certificate in Psychology & Social Behavior at [UC Irvine](https://ps.soceco.uci.edu/), where I worked with 
+[Jacqueline Chen](https://jacquelinemchen.wixsite.com/sciplab), [Paul Piff](https://paulpiff.wixsite.com/meshlab), [Pete Ditto](https://sites.uci.edu/peterdittolab/), and [Azim Shariff](https://sharifflab.com/).
