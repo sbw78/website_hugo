@@ -21,12 +21,13 @@ organizations:
 bio: I study moral psychology with an emphasis on its intersection with political ideology and religious belief.
 
 interests:
-- Moral Judgment
-- Political Ideology
-- Religious Belief
+- Moral Psychology
+- Political Psychology
+- Psychology of Religion
 - Social Inequality
 - Social Change
-- Person Perception
+- Social Cognition
+- \'Big Data\' / Data Science
 
 education:
   courses:
@@ -68,9 +69,9 @@ social:
   link: https://www.linkedin.com/in/bryan-west/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/sbwest_cv_current.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "sbw78@cornell.edu"
@@ -85,6 +86,6 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a fourth-year PhD student in social psychology working with [David Pizarro](http://www.peezer.net/), [Tom Gilovich](http://blogs.cornell.edu/tgilovich/), and [Melissa Ferguson](http://melissaferguson.squarespace.com/). My research interests focus on how moral judgment, political ideology, and religious belief interact with and influence one another, and the ways in which those relationships impact intergroup behavior, social change, and how we perceive others.
+I am a PhD candidate in social psychology working with [David Pizarro](http://www.peezer.net/) (Cornell), [Tom Gilovich](http://blogs.cornell.edu/tgilovich/) (Cornell), and [Melissa Ferguson](http://melissaferguson.squarespace.com/) (Yale). Using a combination of experimental methods and large-scale survey data, I study how moral judgment, political ideology, and religious belief interact with and influence one another, and how these relationships impact intergroup behavior, social change, and how we perceive others.
 
 Prior to starting my graduate work at [Cornell](https://psychology.cornell.edu/), I completed a post-baccalaureate certificate in Psychology & Social Behavior at [UC Irvine](https://ps.soceco.uci.edu/), where I worked with [Jacqueline Chen](https://jacquelinemchen.wixsite.com/sciplab), [Paul Piff](https://paulpiff.wixsite.com/meshlab), [Pete Ditto](https://sites.uci.edu/peterdittolab/), and [Azim Shariff](https://sharifflab.com/).

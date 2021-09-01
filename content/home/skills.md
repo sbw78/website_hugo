@@ -18,13 +18,19 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-#  description = "Advanced User"
+  description = "Advanced User"
+  
+[[feature]]
+  icon = "shiny-orange"
+  icon_pack = "custom"
+  name = "R Shiny"
+  description = "Interactive Dashboards"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Visualization"
-#  description = "I :heart: ggplot2"
+  #description = "I :heart: ggplot2"
   
 [[feature]]
   icon = "python"
@@ -36,23 +42,29 @@ subtitle = ""
   icon = "markdown"
   icon_pack = "fab"
   name = "Markdown | R Markdown"
-  description = ""
+  # description = ""
   
 [[feature]]
   icon = "tex-svgrepo-com"
   icon_pack = "custom"
   name = "LaTeX"
+  description = "Professional Document Production"
+
+[[feature]]
+  icon = "canvas-logo"
+  icon_pack = "custom"
+  name = "Canvas LMS"
   
 # [[feature]]
 #   icon = "project-diagram"
 #   icon_pack = "fas"
 #   name = "Experiment Design"
   
-[[feature]]
-  icon = "zotero"
-  icon_pack = "ai"
-  name = "Zotero | BibTeX"
-#  description = "Reference & Citation Manager"
+# [[feature]]
+#   icon = "zotero"
+#   icon_pack = "ai"
+#   name = "Zotero | BibTeX"
+#   description = "Reference & Citation Manager"
   
 
 # Uncomment to use emoji icons.

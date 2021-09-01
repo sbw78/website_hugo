@@ -34,3 +34,13 @@
   name = "CV"
   url = "files/sbwest_cv_current.pdf"
   weight = 70
+
+# [[main]]
+#   name = "Courses"
+#   url = "courses/"
+#   weight = 80
+
+[[main]]
+  name = "Teaching Experience"
+  url = "#accomplishments"
+  weight = 80
