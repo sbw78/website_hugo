@@ -66,7 +66,7 @@ date_format = "January 2006"
   date_end = "2020-12-21"
 
 [[item]]
-  title = "<a href='files/sbwest_cv_current.pdf'>Complete Teaching Experience History</a>"
+  title = "<a href='files/sbwest_cv_current.pdf'>Complete Teaching / TA Experience</a>"
   organization = "Available on <a href='files/sbwest_cv_current.pdf'>my CV</a>"
   # location = "Cornell University"
   date_start = "2017-08-01"
