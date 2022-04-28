@@ -31,6 +31,25 @@ date_format = "January 2006"
 #   description = ""
 
 [[item]]
+   title = "Instructor"
+   organization = """
+   PSYCH 2801: Writing in the Majors (WIM) <br>
+   Elective section for Intro to Social Psychology (Prof. Tom Gilovich)
+   """
+  location = "Cornell University"
+  date_start = "2022-01-24"
+  date_end = "2022-05-15"
+  description = """
+  Designed and taught a writing-intensive course that focused on reading and communicating current research in social psychology. Chose readings for students, led weekly discussions, and graded all assignments.
+  """
+
+[[item]]
+  title = "Teaching Assistant"
+  organization = "PSYCH 3820: Prejudice, Discrimination (Prof. Amy Krosch)"
+  date_start = "2021-08-30"
+  date_end = "2021-12-06"
+
+[[item]]
   title = "Instructor"
   organization = "PSYCH 1101: Intro to Psychology"
   # location = "Cornell University"
