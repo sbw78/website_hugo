@@ -10,8 +10,8 @@ authors:
 - David A. Pizarro
 tags: []
 categories: []
-date: 'in press'
-lastmod: 2022-04-28T18:42:06-04:00
+date: '2022-01-01'
+lastmod: 2022-06-27T19:51:10-04:00
 featured: false
 draft: false
 
@@ -29,9 +29,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: 'in press'
+publishDate: '2022-06-27T23:51:10.532843Z'
 publication_types:
 - '6'
-abstract: Monsters represent one of humanity's most creative ways to deal with the persistent threats it has faced. We do this by telling stories of monstrous creatures who threaten us—either because of their predatory nature or their capacity to infect or contaminate their human victim. We discuss the history of many of the most popular monsters in human storytelling, and focus on the potential impact such monster tales may have on our treatment of other human beings. Monstrous depictions of the "other" can demarcate the lines between "us" and "them" and allow for the dehumanization of those whom we do not deem worthy of belonging in our communities.
+abstract: Monsters represent one of humanity’s most creative ways to deal with the
+  persistent threats it has faced. We do this by telling stories of monstrous creatures
+  who threaten us—either because of their predatory nature or their capacity to infect
+  or contaminate their human victim. We discuss the history of many of the most popular
+  monsters in human storytelling, and focus on the potential impact such monster tales
+  may have on our treatment of other human beings. Monstrous depictions of the “other”
+  can demarcate the lines between “us” and “them” and allow for the dehumanization
+  of those whom we do not deem worthy of belonging in our communities.
 publication: '*Creativity and Morality*'
 ---
