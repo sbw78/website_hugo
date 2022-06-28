@@ -31,6 +31,13 @@ date_format = "January 2006"
 #   description = ""
 
 [[item]]
+  title = "Teaching Assistant"
+  organization = "PSYCH 3800: Intro to Social Cognition (Prof. Melissa Ferguson)"
+  # location = "Cornell University"
+  date_start = "2022-05-31"
+  date_end = "2022-06-17"
+
+[[item]]
    title = "Instructor"
    organization = """
    PSYCH 2801: Writing in the Majors (WIM) <br>
