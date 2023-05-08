@@ -28,6 +28,7 @@ interests:
 - Social Change
 - Social Cognition
 - \'Big Data\' / Data Science
+- Human-AI Interaction/Collaboration
 
 education:
   courses:
