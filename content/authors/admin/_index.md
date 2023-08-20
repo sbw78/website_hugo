@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Social Psychology
     institution: Cornell University
-    year: 2023 (expected)
+    year: 2024 (expected)
   - course: MA in Social Psychology
     institution: Cornell University
     year: 2020
