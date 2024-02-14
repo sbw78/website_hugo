@@ -31,6 +31,19 @@ date_format = "January 2006"
 #   description = ""
 
 [[item]]
+  title = "Instructor"
+  organization = """
+  COGST 1104: Writing in the Majors (WIM) <br>
+  Elective section for Intro to Cognitive Science (Prof. Shaun Nichols)
+  """
+  location = "Cornell University"
+  date_start = "2024-08-22"
+  date_end = "2024-12-15"
+  description = """
+  Designed and taught a writing and discussion-based seminar that focused on reading and science communication. Led weekly discussions, developed and graded assignments, and mentored students on research proposal projects.
+  """
+
+[[item]]
   title = "Teaching Assistant"
   organization = "PSYCH 3800: Intro to Social Cognition (Prof. Melissa Ferguson)"
   # location = "Cornell University"
