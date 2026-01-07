@@ -1,5 +1,11 @@
 project:
   type: website
+  render:
+    - index.qmd
+    - about.qmd
+    - teaching.qmd
+    - publications.qmd
+    - contact.qmd
 
 website:
   title: "Bryan West"
