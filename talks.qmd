@@ -1,0 +1,15 @@
+---
+title: "Talks"
+---
+
+## Talks & Presentations
+
+### Moral Pessimism
+
+- **Event:** Symposium talk at the Conference of Social Psychologists around Western New York (SPAWN)
+- **Location:** Syracuse University, Syracuse, NY
+- **Date:** May 24, 2019
+
+**Abstract**
+
+Many aspects of human life have improved over time. Mortality rates have fallen, interpersonal violence has waned, and technology has enhanced the lives of people around the world. However, people seem to be pessimistic about human progress in moral terms. In four experimental studies and one large dataset study (which contains approximately 80 years of nationally representative data), I provide evidence for this asymmetry between positive change in the quality of human life and negative evaluations of moral progress. This asymmetry is general, crossing divides of age, ideology, education, income, and religious belief.
