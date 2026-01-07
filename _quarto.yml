@@ -7,6 +7,7 @@ project:
     - publications.qmd
     - talks.qmd
     - posts.qmd
+    - talks/*.qmd
     - contact.qmd
 
 website:
