@@ -2,4 +2,21 @@
 title: "Teaching"
 ---
 
-This page will replace the Wowchemy teaching/experience sections.
+## Teaching Experience
+
+### Teaching Assistant
+
+- PSYCH 2750: Intro to Personality (Prof. Parnia Haj-Mohamadi), Cornell University (Aug 2020 – Dec 2020)
+- PSYCH 2750: Intro to Personality (Prof. Vivian Zayas), Cornell University (Jun 2020)
+- PSYCH 2800: Intro to Social Psychology (Prof. Tom Gilovich), Cornell University (Jan 2020 – Jun 2020)
+- PSYCH 1101: Intro to Psychology (Rajen Anderson), Cornell University (Jun 2019 – Aug 2019)
+- PSYCH 3820: Prejudice and Stereotyping (Prof. Amy Krosch), Cornell University (Jan 2019 – May 2019)
+- PSYCH 2800: Intro to Social Psychology (Prof. Tom Gilovich), Cornell University (Jan 2019 – May 2019)
+- PSYCH 2750: Intro to Personality (Prof. Vivian Zayas), Cornell University (Aug 2017 – Dec 2017)
+
+### Instructor
+
+- PSYCH 1103: Morality in Society (Advanced elective section for Intro Psychology, Prof. David Pizarro), Cornell University (Aug 2019 – Dec 2019)  
+  Designed and taught an introductory seminar focused on reading and discussing research articles about morality, politics, and current social issues. Chose readings for students, led weekly discussions, and graded all assignments.
+- PSYCH 2801: Writing in the Majors (WIM) (Elective section for Intro to Social Psychology, Prof. Tom Gilovich), Cornell University (Aug 2018 – Dec 2018)  
+  Designed and taught a writing-intensive course that focused on reading and communicating current research in social psychology. Chose readings for students, led weekly discussions, and graded all assignments.
