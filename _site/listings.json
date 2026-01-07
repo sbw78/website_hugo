@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/talks.html",
+    "items": [
+      "/talks/moral-pessimism.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/_index.html"
+    ]
+  }
+]
