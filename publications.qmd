@@ -1,15 +1,11 @@
 ---
 title: "Publications"
+bibliography: publications.bib
+nocite: "@*"
+link-citations: true
 ---
 
 ## Publications
 
-### 2022
-
-- **Monsters and the Moral Psychology of the "Other"**  
-  Bronwyn A. Monteiro, S. Bryan West, David A. Pizarro.  
-  *Creativity and Morality*.
-
-- **Belief in Persistent Moral Decline**  
-  Bryan West, David Pizarro.  
-  *PsyArXiv*. DOI: 10.31234/osf.io/9swjb.
+::: {#refs}
+:::
