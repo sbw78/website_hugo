@@ -4,6 +4,12 @@ listing:
   contents: talks
   sort: "date desc"
   fields: [date, title, event, location, summary]
+  field-display-names:
+    date: "Date"
+    title: "Title"
+    event: "Event"
+    location: "Location"
+    summary: "Summary"
   type: table
   table-hover: true
   table-striped: true
