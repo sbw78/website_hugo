@@ -1,0 +1,5 @@
+---
+title: "Contact"
+---
+
+This page will replace the Wowchemy contact widget.

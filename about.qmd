@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This page will replace the Wowchemy About widget content.
