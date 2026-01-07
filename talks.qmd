@@ -3,6 +3,10 @@ title: "Talks"
 listing:
   contents: talks
   sort: "date desc"
+  fields: [date, title, event, location, summary]
+  type: table
+  table-hover: true
+  table-striped: true
 ---
 
 ## Talks & Presentations

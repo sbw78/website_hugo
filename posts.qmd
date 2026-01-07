@@ -3,6 +3,10 @@ title: "Posts"
 listing:
   contents: posts
   sort: "date desc"
+  fields: [date, title, description]
+  type: table
+  table-hover: true
+  table-striped: true
 ---
 
 ## Posts
