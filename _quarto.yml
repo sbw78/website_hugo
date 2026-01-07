@@ -5,6 +5,8 @@ project:
     - about.qmd
     - teaching.qmd
     - publications.qmd
+    - talks.qmd
+    - posts.qmd
     - contact.qmd
 
 website:
@@ -19,6 +21,10 @@ website:
         text: Teaching
       - href: publications.qmd
         text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: posts.qmd
+        text: Posts
       - href: contact.qmd
         text: Contact
 
