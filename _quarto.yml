@@ -8,6 +8,8 @@ project:
     - talks.qmd
     - posts.qmd
     - talks/*.qmd
+    - posts/_index.qmd
+    - posts/*.qmd
     - contact.qmd
 
 website:

@@ -1,0 +1,5 @@
+---
+title: "Posts"
+---
+
+This section will hold blog posts migrated from the Hugo site.
