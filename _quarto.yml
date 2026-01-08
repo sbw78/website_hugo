@@ -53,6 +53,6 @@ website:
 
 format:
   html:
-    theme: litera
-    # theme: flatly
+    theme: [flatly, darkly]
+    theme-switcher: true
     toc: true
