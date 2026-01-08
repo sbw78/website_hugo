@@ -1,0 +1,15 @@
+---
+title: "Profile"
+---
+
+![](images/avatar.jpg)
+
+**Bryan West**  
+PhD Student in Social Psychology, Cornell University
+
+- Email: [sbw78@cornell.edu](mailto:sbw78@cornell.edu)
+- Address: 211 Uris Hall, Ithaca, NY 14853, United States
+- ORCID: https://orcid.org/0000-0003-3327-0499
+- GitHub: https://github.com/sbw78
+- LinkedIn: https://www.linkedin.com/in/bryan-west/
+- CV: /static/files/sbwest_cv_current.pdf

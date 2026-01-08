@@ -11,9 +11,29 @@ project:
     - posts/_index.qmd
     - posts/*.qmd
     - contact.qmd
+  resources:
+    - static/files
 
 website:
   title: "Bryan West"
+  sidebar:
+    style: "docked"
+    pinned: true
+    search: false
+    logo: images/avatar.jpg
+    contents:
+      - section: "Contact"
+        contents:
+          - text: "Email"
+            href: "mailto:sbw78@cornell.edu"
+          - text: "ORCID"
+            href: "https://orcid.org/0000-0003-3327-0499"
+          - text: "GitHub"
+            href: "https://github.com/sbw78"
+          - text: "LinkedIn"
+            href: "https://www.linkedin.com/in/bryan-west/"
+          - text: "CV"
+            href: "/static/files/sbwest_cv_current.pdf"
   navbar:
     left:
       - href: index.qmd
