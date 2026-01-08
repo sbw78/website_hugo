@@ -2,21 +2,56 @@
 title: "Teaching"
 ---
 
-## Teaching Experience
+*Note: All teaching experience listed below is from Cornell University.*
 
-### Teaching Assistant
+## As Course Instructor
 
-- PSYCH 2750: Intro to Personality (Prof. Parnia Haj-Mohamadi), Cornell University (Aug 2020 – Dec 2020)
-- PSYCH 2750: Intro to Personality (Prof. Vivian Zayas), Cornell University (Jun 2020)
-- PSYCH 2800: Intro to Social Psychology (Prof. Tom Gilovich), Cornell University (Jan 2020 – Jun 2020)
-- PSYCH 1101: Intro to Psychology (Rajen Anderson), Cornell University (Jun 2019 – Aug 2019)
-- PSYCH 3820: Prejudice and Stereotyping (Prof. Amy Krosch), Cornell University (Jan 2019 – May 2019)
-- PSYCH 2800: Intro to Social Psychology (Prof. Tom Gilovich), Cornell University (Jan 2019 – May 2019)
-- PSYCH 2750: Intro to Personality (Prof. Vivian Zayas), Cornell University (Aug 2017 – Dec 2017)
+- **Intro to Psychology**  
+  - Term: Summer 2021  
+  - Designed and taught introductory psychology in an online, asynchronous format.
 
-### Instructor
+- **Writing in the Majors (WIM): Cognitive Science**  
+  - Term: Fall 2023  
+  - Designed and taught a writing-intensive course focused on reading and communicating current research in cognitive science. Selected readings, led weekly discussions, and graded all assignments.
 
-- PSYCH 1103: Morality in Society (Advanced elective section for Intro Psychology, Prof. David Pizarro), Cornell University (Aug 2019 – Dec 2019)  
-  Designed and taught an introductory seminar focused on reading and discussing research articles about morality, politics, and current social issues. Chose readings for students, led weekly discussions, and graded all assignments.
-- PSYCH 2801: Writing in the Majors (WIM) (Elective section for Intro to Social Psychology, Prof. Tom Gilovich), Cornell University (Aug 2018 – Dec 2018)  
-  Designed and taught a writing-intensive course that focused on reading and communicating current research in social psychology. Chose readings for students, led weekly discussions, and graded all assignments.
+- **Writing in the Majors (WIM): Social Psychology**  
+  - Terms: Spring 2022, Fall 2018  
+  - Designed and taught a writing-intensive course focused on reading and communicating current research in social psychology. Selected readings, led weekly discussions, and graded all assignments.
+
+- **Intro to Psychology Seminar: Morality & Society**  
+  - Term: Fall 2019  
+  - Designed and taught an introductory seminar focused on reading and discussing research articles on morality, politics, and current social issues. Selected readings, led weekly discussions, and graded all assignments.
+
+## As Teaching Assistant
+
+- **Persuasion and Social Influence**  
+  - Term: Spring 2024  
+  - Instructor: Dr. Joel Le Forestier
+
+- **Intro to Cognitive Science**  
+  - Term: Fall 2023  
+  - Instructor: Dr. Shaun Nichols
+
+- **Intro to Personality Psychology**  
+  - Terms: Winter 2023, Summer 2022, Summer 2020, Fall 2017  
+  - Instructors: Dr. Vivian Zayas; Dr. Parnia Haj-Mohamadi (Fall 2020)
+
+- **Intro to Social Cognition**  
+  - Terms: Summer 2023, Summer 2022, Winter 2021  
+  - Instructor: Dr. Melissa Ferguson
+
+- **Intro to Social Psychology**  
+  - Terms: Spring 2022, Spring 2021, Spring 2020, Fall 2018, Spring 2018  
+  - Instructor: Dr. Tom Gilovich
+
+- **Prejudice, Stereotyping, & Discrimination**  
+  - Terms: Fall 2021, Spring 2019  
+  - Instructor: Dr. Amy Krosch
+
+- **Intro to Psychology**  
+  - Terms: Summer 2019  
+  - Instructor: Rajen Anderson
+
+- **Intro to Psychology Seminar**  
+  - Term: Fall 2019  
+  - Instructor: Dr. David Pizarro
