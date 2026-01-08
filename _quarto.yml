@@ -53,5 +53,6 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: litera
+    # theme: flatly
     toc: true
